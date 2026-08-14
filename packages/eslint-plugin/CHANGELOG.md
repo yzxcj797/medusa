@@ -1,5 +1,7 @@
 # @medusajs/eslint-plugin
 
+## 2.19.1
+
 ## 2.19.0
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # @medusajs/notification-sendgrid
 
+## 2.19.1
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/framework@2.19.1
+
 ## 2.19.0
 
 ### Patch Changes

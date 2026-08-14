@@ -1,5 +1,23 @@
 # @medusajs/loyalty-plugin
 
+## 2.19.1
+
+### Patch Changes
+
+- [#16347](https://github.com/medusajs/medusa/pull/16347) [`094b2ed4e1442f67a345269ba32bbc1a26dacf97`](https://github.com/medusajs/medusa/commit/094b2ed4e1442f67a345269ba32bbc1a26dacf97) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(loyalty-plugin): lock account on debit
+
+- [#16348](https://github.com/medusajs/medusa/pull/16348) [`ac38ab4d7f430498d09e77a8a267a41b1dcf3d19`](https://github.com/medusajs/medusa/commit/ac38ab4d7f430498d09e77a8a267a41b1dcf3d19) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(loyalty-plugin): validate gift card expiry dates
+
+- Updated dependencies [[`7e421e0f0c60abf64bcfeccea93071202ec78d55`](https://github.com/medusajs/medusa/commit/7e421e0f0c60abf64bcfeccea93071202ec78d55)]:
+  - @medusajs/dashboard@2.19.1
+  - @medusajs/admin-sdk@2.19.1
+  - @medusajs/medusa@2.19.1
+  - @medusajs/test-utils@2.19.1
+  - @medusajs/cli@2.19.1
+  - @medusajs/framework@2.19.1
+  - @medusajs/icons@2.19.1
+  - @medusajs/ui@4.2.2
+
 ## 2.19.0
 
 ### Patch Changes
